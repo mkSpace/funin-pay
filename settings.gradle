@@ -1,2 +1,3 @@
 rootProject.name = 'FuninPay'
+include 'membership-service'
 
